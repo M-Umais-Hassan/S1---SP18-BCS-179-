@@ -133,6 +133,10 @@ input[type="text"]:focus {
   padding: 10px;
 }
 
+.Ask-box a {
+  text-decoration: none;
+}
+
 /*-----------------Footer-----------------*/
 
 #footer {
