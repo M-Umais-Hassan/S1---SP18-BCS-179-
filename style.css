@@ -137,6 +137,44 @@ input[type="text"]:focus {
   text-decoration: none;
 }
 
+.most-recent a {
+  text-decoration: none;
+  color: black;
+}
+
+.culture {
+  margin-top: 100px;
+}
+
+.culture h1 {
+  color: #23001b;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.culture a {
+  text-decoration: none;
+  color: #23001b;
+  font-weight: bold;
+  margin: 0 20px;
+}
+
+.culture-lower h1 {
+  position: absolute;
+  background: white;
+  width: 600px;
+  margin-top: -80px;
+  color: #23001b;
+  font-weight: 1000;
+}
+
+.second-box h3 {
+  width: 350px;
+  position: absolute;
+  background: white;
+  margin-top: -80px;
+}
+
 /*-----------------Footer-----------------*/
 
 #footer {
